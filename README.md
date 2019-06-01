@@ -6,6 +6,6 @@ Writer Genie is a Deep Learning-based writing helper. It helps you find the word
 
 *Writer Genie is a work yet under progress*
 
-### Method
+### Basic Idea
 
  To help you write longer sentences, the process can be though of as ***Sentence Decompression*** or ***Sentence Expansion***. Given a sentence you wrote, the goal is to output a sentence with same mearning, yet with longer, richer expression.
