@@ -1,6 +1,7 @@
 # writer-genie
 
-Writer Genie is a Deep Learning-based writing helper. It helps you find the words to say what you want to say. 
+Writer Genie is a Deep Learning-based writing helper. It helps you find the words to say what you want to say. *note*: the name is borrowed from [piano-genie](https://magenta.tensorflow.org/pianogenie), which is a platform with similar goal but for piano instead.
+
 Writer Genie is a work yet under progress
 
 ### Method
